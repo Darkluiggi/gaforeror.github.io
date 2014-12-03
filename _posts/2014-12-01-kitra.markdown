@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Krita, una aplicación para ilustración"
+date:   2014-12-01 04:30:12
+categories: herramientas
+tags:
+- herramienta
+- open source
+---
+Krita  es una herramienta para lam ulistracion, la cual esta dirigida tanto a principiantes como a profesionales en el arte de la ilustracion, caricaturas y dibujos digitales.
+
+Características destacadas
+interfaz: permite personalizar la interzas como atajos de teclado.
+
+Variedad de pinceles y texturas: los cuales no funcionan de manera convencional y pueden ser personalizados.
+
+Filtros y efectos automaticos: estos se previsualizan en la misma imagen, logrando variar los niveles de contraste, iluminación y opacidad. Eademas de las transparencias.
+
+Existen muchas formas de apoyar las iniciativas del software libre, una de ellas es dándoles un buen uso y difundiendo sus bondades. Otros optarán por aportar algo de dinero a los desarrolladores. 
+
+Fuente[bitelia]
+
+[bitelia]:      http://bitelia.com/2014/11/krita-ilustracion-pintura-digital
