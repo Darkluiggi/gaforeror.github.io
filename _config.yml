@@ -10,5 +10,11 @@ twitter_username: gaforeror
 github_username:  gaforeror
 facebook_username: Aldo.corrales
 
+pages_list:       
+  About: '/About'
+  Proyectos: '/Proyectos'
+  Intereses: '/Intereses'
+  Presentaciones: '/Presentaciones'
+  Universidad: '/Universidad'
 # Build settings
 markdown: kramdown
